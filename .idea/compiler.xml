@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config-client" />
+        <module name="config-server" />
+        <module name="eureka-server" />
+        <module name="eureka-server (1)" />
+        <module name="eureka-server (2)" />
+        <module name="eureka-server (3)" />
+        <module name="eureka-server (4)" />
+        <module name="service-feign" />
+        <module name="service-feign (1)" />
+        <module name="service-feign (2)" />
+        <module name="service-hi" />
+        <module name="service-hi (1)" />
+        <module name="service-hi (2)" />
+        <module name="service-hi (3)" />
+        <module name="service-hi (4)" />
+        <module name="service-ribbon" />
+        <module name="service-ribbon (1)" />
+        <module name="service-ribbon (2)" />
+        <module name="service-ribbon (3)" />
+        <module name="service-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka-server (1)" target="1.8" />
+      <module name="eureka-server (2)" target="1.8" />
+      <module name="eureka-server (3)" target="1.8" />
+      <module name="eureka-server (4)" target="1.8" />
+      <module name="sc-f-chapter1" target="1.8" />
+      <module name="sc-f-chapter2" target="1.8" />
+      <module name="sc-f-chapter3" target="1.8" />
+      <module name="sc-f-chapter4" target="1.8" />
+      <module name="sc-f-chapter5" target="1.8" />
+      <module name="sc-f-chapter6" target="1.8" />
+      <module name="service-feign" target="1.8" />
+      <module name="service-feign (1)" target="1.8" />
+      <module name="service-feign (2)" target="1.8" />
+      <module name="service-hi" target="1.8" />
+      <module name="service-hi (1)" target="1.8" />
+      <module name="service-hi (2)" target="1.8" />
+      <module name="service-hi (3)" target="1.8" />
+      <module name="service-hi (4)" target="1.8" />
+      <module name="service-ribbon" target="1.8" />
+      <module name="service-ribbon (1)" target="1.8" />
+      <module name="service-ribbon (2)" target="1.8" />
+      <module name="service-ribbon (3)" target="1.8" />
+      <module name="service-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
